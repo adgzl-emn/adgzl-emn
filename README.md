@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hello There <img src="hi.gif" width="30">
+
+<p align="center">
+  <img align="center" src="wall-e.gif" width='auto' />
+ </p>
+
+I am Emin Adıgüzel 🧔
 
 <!--
 **adgzl-emn/adgzl-emn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
